@@ -1,5 +1,6 @@
 # word_frequency_counter
 A simple Python script to count word frequencies in a text file.
+(See the CSV file in this repository for the sample output.)
 
 ## Date
 - Date (initial use): 2024-09-08
