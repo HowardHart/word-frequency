@@ -20,6 +20,7 @@ A simple Python script to count word frequencies in a text file.
 - `word_frequency.py` – Python script version (run directly)
 - `word_frequency.ipynb` – Jupyter Notebook version (step-by-step analysis)
 - `sample.txt` – Example text file for testing
+- `sample_word_frequency.csv` – Example of output
 - `requirements.txt` – List of Python dependencies
 - `README.md` – Project documentation (this file)
 
