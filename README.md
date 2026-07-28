@@ -18,6 +18,10 @@ A simple Python script to count word frequencies in a text file.
 - `requirements.txt` – List of Python dependencies
 - `README.md` – Project documentation (this file)
 
+## Requirements
+- Python 3.x
+- pandas
+
 ## Usage
 1. Place your text file as `sample.txt` in the same folder (or modify the `input_file` variable in the script)
 2. Run the script:
